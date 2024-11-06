@@ -2,7 +2,7 @@
 In this project, I will attempt to conduct a brief exploratory analysis using the flight dataset provided by DataCamp.
 
 ## Data Source
-The [original project](https://app.datacamp.com/learn/projects/1962) was initially coded on DataCamp, and I have adapted it with additional exploration, documentation, and analysis of objectives, code, findings, and evaluation. This modified approach allows for greater flexibility and freedom in analysis and presentation. The dataset, [flight_weather2022.csv](url), contains flight data that is the focus of this analysis.
+The [original project](https://app.datacamp.com/learn/projects/1962) was initially coded on DataCamp, and I have adapted it with additional exploration, documentation, and analysis of objectives, code, findings, and evaluation. This modified approach allows for greater flexibility and freedom in analysis and presentation. The dataset, [flight_weather2022.csv](https://github.com/ngpmnam/Analysis-on-Flight-Delays-and-Cancellations/blob/main/flights_weather2022.csv), contains flight data that is the focus of this analysis.
 
 ## Objectives Summary
 - **Analyze** airport routes and airlines with the most cancellations.
